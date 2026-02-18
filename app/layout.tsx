@@ -35,9 +35,6 @@ export const metadata: Metadata = {
     capable: true,
     statusBarStyle: "default",
   },
-  mobileWebApp: {
-    capable: true,
-  },
 };
 
 export const viewport: Viewport = {
