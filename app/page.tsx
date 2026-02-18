@@ -37,9 +37,9 @@ export default function HomePage() {
               transition={{ delay: 0.2 }}
               className="text-fluid-3xl sm:text-fluid-4xl md:text-fluid-5xl font-bold bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent text-armenian leading-tight"
             >
-              Ո՞ր Հովհաննես Թումանյանի
+              Հովհաննես Թումանյանի
               <br className="hidden sm:block" />
-              <span className="block sm:inline sm:ml-2 mt-1 sm:mt-0">հերոսն ես դու</span>
+              <span className="block sm:inline sm:ml-2 mt-1 sm:mt-0">ո՞ր հերոսն ես</span>
             </motion.h1>
 
             <motion.p
