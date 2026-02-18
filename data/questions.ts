@@ -55,7 +55,7 @@ export const questions: Question[] = [
   },
   {
     id: "q5",
-    text: "Երբ պետք է կատարես մի ձանողատար կամ անսիրտ աշխատանք, դու…",
+    text: "Երբ պետք է կատարես մի ժամանակատար կամ անսիրտ աշխատանք, դու…",
     options: [
       { id: "q5_a1", text: "Շուտ ես սկսում և ավարտում, պատասխանատու ես", traits: t({ gikor: 0.9, panos: 0.5, ter: 0.95, chara: 0.85, kikos: 0.7, nazar: 0.8, huri: 0.2, anush: 0.85, maro: 0.8 }) },
       { id: "q5_a2", text: "Հետաձգում ես, մինչև վերջին պահ, բայց հետո ամեն ինչ անում", traits: t({ gikor: 0.5, panos: 0.6, ter: 0.5, chara: 0.7, kikos: 0.6, nazar: 0.7, huri: 0.9, anush: 0.5, maro: 0.5 }) },
