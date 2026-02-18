@@ -13,10 +13,6 @@ const nextConfig = {
   optimizeFonts: true,
   // Compression
   compress: true,
-  // Experimental features for better mobile performance
-  experimental: {
-    optimizeCss: true,
-  },
 };
 
 module.exports = nextConfig;
