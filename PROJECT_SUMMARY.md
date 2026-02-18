@@ -1,4 +1,4 @@
-# Project Summary: Ո՞ր Հովհաննես Թումանյանի հերոսն ես դու
+# Project Summary: Հովհաննես Թումանյանի ո՞ր հերոսն ես
 
 ## Overview
 A complete, production-ready Next.js web application that determines which character from Hovhannes Tumanyan's literary works matches the user's personality through an interactive quiz.

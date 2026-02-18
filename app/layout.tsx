@@ -3,7 +3,7 @@ import "./globals.css";
 import { ThemeProvider } from "@/components/ThemeProvider";
 
 export const metadata: Metadata = {
-  title: "Ո՞ր Հովհաննես Թումանյանի հերոսն ես դու",
+  title: "Հովհաննես Թումանյանի ո՞ր հերոսն ես",
   description:
     "Գտիր, թե որ հերոսն ես դու Հովհաննես Թումանյանի գրական ստեղծագործություններից: Խաղա մեր հարցաշարը և բացահայտիր քո անձնային համապատասխանությունը:",
   keywords: [
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Tumanyan Quiz" }],
   openGraph: {
-    title: "Ո՞ր Հովհաննես Թումանյանի հերոսն ես դու",
+    title: "Հովհաննես Թումանյանի ո՞ր հերոսն ես",
     description:
       "Գտիր, թե որ հերոսն ես դու Հովհաննես Թումանյանի գրական ստեղծագործություններից",
     type: "website",
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Ո՞ր Հովհաննես Թումանյանի հերոսն ես դու",
+    title: "Հովհաննես Թումանյանի ո՞ր հերոսն ես",
     description:
       "Գտիր, թե որ հերոսն ես դու Հովհաննես Թումանյանի գրական ստեղծագործություններից",
   },

@@ -16,7 +16,7 @@ export function ShareButtons({ characterName, workTitle, percentage }: ShareButt
 
   const shareText = workTitle
     ? `Ես ${characterName} եմ (${workTitle}) — ${percentage}% համապատասխանություն։ Ո՞ր Թումանյանի հերոսն ես դու։`
-    : `Ես ${characterName} եմ ${percentage}% համապատասխանությամբ։ Ո՞ր Հովհաննես Թումանյանի հերոսն ես դու։`;
+    : `Ես ${characterName} եմ ${percentage}% համապատասխանությամբ։ Հովհաննես Թումանյանի ո՞ր հերոսն ես։`;
   const shareUrl = typeof window !== "undefined" ? window.location.href : "";
 
   const handleCopy = async () => {
@@ -33,7 +33,7 @@ export function ShareButtons({ characterName, workTitle, percentage }: ShareButt
     if (navigator.share) {
       try {
         await navigator.share({
-          title: "Ո՞ր Հովհաննես Թումանյանի հերոսն ես դու",
+          title: "Հովհաննես Թումանյանի ո՞ր հերոսն ես",
           text: shareText,
           url: shareUrl,
         });

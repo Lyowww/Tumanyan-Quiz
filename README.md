@@ -1,4 +1,4 @@
-# Ո՞ր Հովհաննես Թումանյանի հերոսն ես դու
+# Հովհաննես Թումանյանի ո՞ր հերոսն ես
 
 A modern, interactive personality quiz web application that determines which character from Hovhannes Tumanyan's literary works matches your personality.
 
