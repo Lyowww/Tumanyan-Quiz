@@ -39,7 +39,7 @@ export const questions: Question[] = [
     options: [
       { id: "q3_a1", text: "Փորձում ես հասկանալ և ներել, չես ուզում թշնամանք", traits: t({ gikor: 0.8, panos: 0.8, ter: 0.4, chara: 0.4, kikos: 0.95, nazar: 0.4, huri: 0.7, anush: 0.9, maro: 0.7 }) },
       { id: "q3_a2", text: "Պաշտպանում ես քեզ, բայց խելացի, առանց կոնֆլիկտի", traits: t({ gikor: 0.6, panos: 0.5, ter: 0.7, chara: 0.95, kikos: 0.5, nazar: 0.9, huri: 0.4, anush: 0.6, maro: 0.8 }) },
-      { id: "q3_a3", text: "Շատ ես վիրավորվում, բայց փորձում ես չցույց տալ", traits: t({ gikor: 0.9, panos: 0.6, ter: 0.3, chara: 0.3, kikos: 0.7, nazar: 0.3, huri: 0.5, anush: 0.9, maro: 0.9 }) },
+      { id: "q3_a3", text: "Շատ ես վիրավորվում, բայց փորձում ես ցույց չտալ", traits: t({ gikor: 0.9, panos: 0.6, ter: 0.3, chara: 0.3, kikos: 0.7, nazar: 0.3, huri: 0.5, anush: 0.9, maro: 0.9 }) },
       { id: "q3_a4", text: "Չես մտածում երկար, անցնում ես կյանքին", traits: t({ gikor: 0.4, panos: 0.9, ter: 0.6, chara: 0.6, kikos: 0.8, nazar: 0.7, huri: 0.85, anush: 0.4, maro: 0.5 }) },
     ],
   },
